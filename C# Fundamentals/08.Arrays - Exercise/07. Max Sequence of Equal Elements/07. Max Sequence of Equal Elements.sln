@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Max Sequence of Equal Elements", "07. Max Sequence of Equal Elements.csproj", "{0E56C3CB-A5BA-4871-A4AD-83A14CEE311B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E56C3CB-A5BA-4871-A4AD-83A14CEE311B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E56C3CB-A5BA-4871-A4AD-83A14CEE311B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E56C3CB-A5BA-4871-A4AD-83A14CEE311B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E56C3CB-A5BA-4871-A4AD-83A14CEE311B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6AF26E4-A7EB-426E-B5C8-D55758B0C400}
+	EndGlobalSection
+EndGlobal

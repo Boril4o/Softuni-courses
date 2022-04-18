@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3 - Heart Delivery", "Problem 3 - Heart Delivery\Problem 3 - Heart Delivery.csproj", "{12CAC927-E20B-417C-A554-D3FFFCB33763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12CAC927-E20B-417C-A554-D3FFFCB33763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CAC927-E20B-417C-A554-D3FFFCB33763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CAC927-E20B-417C-A554-D3FFFCB33763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CAC927-E20B-417C-A554-D3FFFCB33763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {349F8F44-357D-49F7-885F-89159AEE4D65}
+	EndGlobalSection
+EndGlobal

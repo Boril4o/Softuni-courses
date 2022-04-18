@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Letters Change Numbers", "08. Letters Change Numbers\08. Letters Change Numbers.csproj", "{ED2B6667-04FF-4137-8C77-4BAF72183019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED2B6667-04FF-4137-8C77-4BAF72183019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2B6667-04FF-4137-8C77-4BAF72183019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2B6667-04FF-4137-8C77-4BAF72183019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2B6667-04FF-4137-8C77-4BAF72183019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74129124-E3C1-490F-8B2B-DCFA2D4B654B}
+	EndGlobalSection
+EndGlobal
